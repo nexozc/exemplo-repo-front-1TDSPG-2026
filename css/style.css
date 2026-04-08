@@ -1,0 +1,21 @@
+/* TEXTO */
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    
+    font-size: 16px;    
+}
+header{
+    background-color: rgba(221, 85, 85, 0.616) ;
+    
+    margin: 0 auto;
+    
+    width: 80%;
+}
+h1{
+    text-align: center;
+}
+nav{
+margin: 0 auto;
+    width: 70%;
+}
